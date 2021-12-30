@@ -5,7 +5,7 @@ puts "Digite la segunda palabra"
 w2 = gets
 
 concatenado = "#{w1.strip} #{w2.strip}" 
-#strip elimina el salto de línea, quita los espacios a la derecha o izquierda 
+#strip elimina el salto de linea, quita los espacios a la derecha o izquierda 
 
 puts "#{concatenado}"
 gets

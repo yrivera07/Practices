@@ -1,7 +1,7 @@
-puts "¿Cuántos kilómetros se han recorrido?"
+puts "Â¿Cuantos kilometros se han recorrido?"
 kilometraje = gets.to_f
 
-puts "¿Cuántos litros de combustible se requirieron?"
+puts "Â¿Cuantos litros de combustible se requirieron?"
 combustible = gets.to_f
 
 consumo = (kilometraje / combustible).round(2)

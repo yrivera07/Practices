@@ -1,10 +1,10 @@
-puts "¿Cuál es número de horas trabajadas?"
+puts "Â¿Cual es numero de horas trabajadas?"
 horas = gets.to_i
 
-puts "¿Cuál es el coste por hora?"
+puts "Â¿Cual es el coste por hora?"
 coste = gets.to_i
 
-puts "El coste por hora es de: #{coste} y se trabajó #{horas} horas"
+puts "El coste por hora es de: #{coste} y se trabajo #{horas} horas"
 
 paga = horas * coste
 
